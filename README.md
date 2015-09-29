@@ -1,2 +1,5 @@
 # hello-world
-my very first foray
+
+I'm Page.
+
+I'm new at this, but I think it'll be fun.
